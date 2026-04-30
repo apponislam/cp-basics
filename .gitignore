@@ -1,0 +1,18 @@
+# compiled files
+*.exe
+*.out
+*.o
+
+# input/output anywhere
+**/input.txt
+**/output.txt
+
+# logs
+*.log
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
